@@ -1,3 +1,3 @@
-# tensorflow_mnist_tutorial
+# TensorFlow MNIST Tutorial
 
 http://tensorflow.org/tutorials/mnist/beginners/index.md
